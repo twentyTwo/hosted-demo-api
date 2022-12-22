@@ -1,0 +1,96 @@
+{
+   "id":"123",
+   "tpaId":"tpa_123",
+   "tpaFirstname":"William",
+    "tpaLastname":"Scott",
+   "LastDataUpdatedDate":"07/04/22",
+   "plansSummary":{
+      "totalAsset":"$30,121,000",
+      "totalAssetIncrementPercentage":"4.7%",
+      "totalAssetLastRetrievalDate":"07/04/22",
+      "totalPlans":"73",
+      "totalPlansIncrementPercentage":"3.5%",
+      "totalPlansLastRetrievalDate":"07/04/22",
+      "netContribution":"$192,401",
+      "netContributionIncrementPercentage":"-4.3%",
+      "netContributionLastRetrievalDate":"07/04/22",
+      "totalParticipant":"6521",
+      "totalParticipantIncrementPercentage":"0%",
+      "totalParticipantLastRetrievalDate":"07/04/22",
+      "participationPercentage":"22.4%",
+      "participationIncrementPercentage":"-2.5%",
+      "participationPercentageLastRetrievalDate":"07/04/22",
+      "retirementSuccessPercentage":"24.3%",
+      "retirementSuccessIncrementPercentage":"0%",
+      "retirementSuccessLastRetrievalDate":"07/04/22"
+   },
+   "planDetails":[
+      {
+         "planId":"DEMO12",
+         "planName":"Acme Marketing",
+         "planFeatures":[
+            "Auto Enrollment",
+            "Auto Increase",
+            "Safe Harbor"
+         ],
+         "contact":{
+            "advisor":"Jane Laskin",
+            "tpa":"Don Schnell",
+            "phone":"800-555-1212",
+            "sponsorServices":"800-444-0101"
+         },
+         "totalAsset":"$987,421",
+         "totalAssetIncrementPercentage":"4.1%",
+         "totalAssetLastRetrievalDate":"07/04/22",
+         "netContribution":"$72,839",
+         "netContributionIncrementPercentage":"3.1%",
+         "netContributionLastRetrievalDate":"07/04/22",
+         "totalParticipant":"487",
+         "totalParticipantIncrementPercentage":"3%",
+         "totalParticipantLastRetrievalDate":"07/04/22",
+         "participationPercentage":"72.1%",
+         "participationIncrementPercentage":"1.6%",
+         "participationPercentageLastRetrievalDate":"07/04/22",
+         "retirementSuccessPercentage":"67.91%",
+         "retirementSuccessIncrementPercentage":"3%",
+         "retirementSuccessLastRetrievalDate":"07/04/22",
+         "product":"Johnson Financial",
+         "serviceModel":"Full Service",
+         "assets":"$275,193",
+         "assetIsIncreased":"true",
+         "eigibleCount":"67",
+         "activeParticipantCount":"24",
+         "inactiveParticipantCount":"10",
+         "withBalanceParticipantCount":"5",
+         "investments":[
+            {
+               "category":"Stocks",
+               "investmentOn":"Vanguard Abc",
+               "ticker":"VANGX",
+               "assetClass":"International Value",
+               "expenses":"0.08",
+               "assets":"$892,605",
+               "weight":"29.4%"
+            },
+            {
+               "category":"Stocks",
+               "investmentOn":"Pioneer XYZ",
+               "ticker":"PIONX",
+               "assetClass":"International Value",
+               "expenses":"0.08",
+               "assets":"$892,605",
+               "weight":"29.4%"
+            },
+            {
+               "category":"Bonds",
+               "investmentOn":"PIMCO JKL",
+               "ticker":"PIMCO",
+               "assetClass":"Immediate Bond",
+               "expenses":"0.08",
+               "assets":"$892,605",
+               "weight":"29.4%"
+            }
+         ]
+      }
+   ]
+}
