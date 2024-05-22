@@ -1,0 +1,9 @@
+{
+  "userid": "12345",
+  "name": "John Doe",
+  "currentbalance": 5000,
+  "MatchingParcentage": 10,
+  "OwnBalance": 2000,
+  "matchingBalance": 3000,
+  "nextRateIncrementDate": "2024-06-15"
+}
